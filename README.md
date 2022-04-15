@@ -17,6 +17,8 @@ pip3 install opencv-python
 For Numpy, type the following command into the terminal window:
 ```sh
 pip3 install numpy
+```
 For Matplotlib, type the following command into the terminal window:
 ```sh
 pip3 install matplotlib
+```
