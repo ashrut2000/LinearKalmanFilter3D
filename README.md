@@ -3,7 +3,7 @@
 
 1. Make sure you are using the Python3 interpreter to run the code
 1. Install all the necessary dependencies provided below in the dependencies section
-1. The input image file "bounce1.mp4" must in the current working directory
+1. The input video file "bounce1.mp4" must in the current working directory
 1. Open and run main.py 
 
 
